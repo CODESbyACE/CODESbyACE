@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CODESbyACE
 - 👀 I’m interested in ... WEB DEVELOPMENT 
-- 🌱 I’m currently learning ... CSS and JS  
+- 🌱 I’m currently learning ... JS  
 - 💞️ I’m looking to collaborate on ... Designing 
 - 📫 How to reach me ... codesbyace@gmail.com
 
